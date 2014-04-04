@@ -1,5 +1,5 @@
 GIT
-  remote: http://github.com/spree/spree
+  remote: https://github.com/spree/spree
   revision: 708632df7691710e9f05f06c62a278c95ed8fb14
   branch: 2-2-stable
   specs:
@@ -53,7 +53,7 @@ GIT
       spree_core (= 2.2.2.beta)
 
 GIT
-  remote: http://github.com/spree/spree_auth_devise
+  remote: https://github.com/spree/spree_auth_devise
   revision: e75c1f021c4353b2e10474dfb9181dc8d4571b40
   branch: 2-2-stable
   specs:
@@ -189,7 +189,7 @@ GEM
       mime-types
     paranoia (2.0.2)
       activerecord (~> 4.0)
-    pg (0.17.0)
+    pg (0.17.1)
     polyamorous (0.6.4)
       activerecord (>= 3.0)
     polyglot (0.3.4)
