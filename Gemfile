@@ -54,3 +54,4 @@ end
 gem 'spree', git:'https://github.com/spree/spree', branch: '2-2-stable'
 gem 'spree_auth_devise', git:'https://github.com/spree/spree_auth_devise', branch: '2-2-stable'
 
+gem 'spree_shipping_calculator', path: "/home/sanjeev/RubymineProjects/spree_shipping_calculator"
